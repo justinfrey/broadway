@@ -5,8 +5,18 @@ body {
 
 
 h1 {
-  background-image: url("./resources/images/flatiron.png";
   color: white;
   font-size: 70px;
   font-weight: bold;
+
+}
+
+.hero {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-size: cover;
+}
+
+.btn-nav {
+  color: white;
+  font-size: 18px;
 }
