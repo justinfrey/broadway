@@ -14,9 +14,40 @@ h1 {
 .hero {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-size: cover;
+  background-position: center;
 }
 
 .btn-nav {
   color: white;
   font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#design-nyc {
+  color: white
+}
+
+.design {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-position: center;
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
 }
